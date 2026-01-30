@@ -1,0 +1,14 @@
+title: Andrex2005 Professional Portfolio
+email: landrew10@vt.edu
+description: >- 
+  Computer Engineering student at Virginia Tech with experience 
+  in embedded systems and aerospace projects.
+url: "https://Andrex2005.github.io" 
+
+
+header_pages:
+  - index.md
+  - about.md
+
+github_username: Andrex2005
+theme: minima
